@@ -1,0 +1,18 @@
+{
+  "name": "BLEVolControl",
+  "version": "1.0.0",
+  "description": "Control volume over BLE",
+  "main": "linux.js",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "noble": "^0.3.7",
+    "osx-system-sounds": "^0.1.0",
+    "xbmc-ws": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christoph Groß <gross@blubyte.de> (http://chris-labs.de/)",
+  "license": "MIT"
+}
